@@ -1,0 +1,12 @@
+Skills for Successful Project:
+-communication with group members
+-good writing
+-video filming/editing (final round)
+-coding(data mining, data cleaning)
+-presenting/speaking (final round)
+-creativity/innovation
+
+-classification problem, predict categorical variable
+-predict gender, race, etc. based on traffic violations data
+-latitude, longitude featured engineered into neighbourhoods
+	-could do regression problem, continous variable
